@@ -5,7 +5,7 @@
 
 [build]
 	command = "npm run build"
-	functions = "lambda"
+	functions = "netlify/functions"
 	publish = "public"
 
 [[redirects]]
